@@ -2,7 +2,7 @@
 Akond Rahman 
 Sep 27, 2023
 Answer to RQ1 
-yada yada edit yada
+yada yada
 '''
 import os 
 import csv 
